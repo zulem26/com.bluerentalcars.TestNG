@@ -40,5 +40,7 @@ public class NegativeLoginTesti {
         Assert.assertTrue(brcPage.basarisizGirisMsj.isDisplayed());
 
 
+
+
     }
 }
